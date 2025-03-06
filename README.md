@@ -68,8 +68,8 @@ The analysis is structured into three main dashboards:
 ## Tools & Technologies
 - **Tableau:** For creating interactive dashboards.
   
-## Snapshot of *Profile Analysis of Customers Dashboard
-![iamge 2](https://github.com/user-attachments/assets/7a0f220e-aedd-487d-953c-171cc0c75f32)
+## Snapshot of the Second Dashboard Included in the Workbook
+![iamge 3](https://github.com/user-attachments/assets/f1b67c93-1405-41d4-8891-d072c16d69bd)
 
 ## Repository Structure
 ```bash
