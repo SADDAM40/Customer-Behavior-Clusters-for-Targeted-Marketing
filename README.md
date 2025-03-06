@@ -67,9 +67,12 @@ The analysis is structured into three main dashboards:
 
 ## Tools & Technologies
 - **Tableau:** For creating interactive dashboards.
+  
+## Snapshot of *Profile Analysis of Customers Dashboard
+![iamge 2](https://github.com/user-attachments/assets/7a0f220e-aedd-487d-953c-171cc0c75f32)
 
 ## Repository Structure
 ```bash
-├── README.md             # Project overview and documentation
-├── data/                 # Dataset files 
-├── Tableau/              # Tableau workbook files for dashboards
+├── README.md                                # Project overview and documentation
+├── Marketing_Campaign.xlsx                  # Dataset files 
+├── Customer_Behavior_Analysis.twbx          # Tableau workbook 
