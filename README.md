@@ -1,4 +1,4 @@
-# Customer Personality Analysis Dashboard
+# Customer Personality Analysis Dashboards
 
 ## Overview
 This project presents a comprehensive analysis of customer data using Tableau. The aim is to segment customers for targeted marketing, understand their responses to promotions, and analyze their shopping behaviors and demographic profiles. The insights derived help the firm optimize marketing strategies and resource allocation.
