@@ -4,7 +4,7 @@
 This project presents a comprehensive analysis of customer data using Tableau. The aim is to segment customers for targeted marketing, understand their responses to promotions, and analyze their shopping behaviors and demographic profiles. The insights derived help the firm optimize marketing strategies and resource allocation.
 
 ## Project Description
-The analysis utilizes customer records from the firm's database (Patel, 2021). The dataset comprises 30 columns and 2240 rows covering various customer attributes such as demographics, income, spending patterns, purchase channels, and responses to promotional campaigns. Three interactive Tableau dashboards have been developed to provide insights into:
+The analysis utilizes customer records from the firm's database. The dataset comprises 30 columns and 2240 rows covering various customer attributes such as demographics, income, spending patterns, purchase channels, and responses to promotional campaigns. Three interactive Tableau dashboards have been developed to provide insights into:
 
 1. **Customer Clusters Analysis and Promotions Insights**
 2. **Customer Clusters and Purchase Channel Analysis**
